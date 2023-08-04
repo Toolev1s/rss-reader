@@ -2,11 +2,8 @@
     "values": [
         "https://rsshub.app/telegram/channel/nodeseekc",
         "https://www.zhihu.com/rss",
-        "https://feeds.appinn.com/appinns/",
         "https://v2ex.com/feed/tab/tech.xml",
-        "https://www.douban.com/feed/review/movie",
-        "https://hostloc.com/forum.php?mod=rss&fid=45&auth=389ec3vtQanmEuRoghE%2FpZPWnYCPmvwWgSa7RsfjbQ%2BJpA%2F6y6eHAx%2FKqtmPOg"
-    ],
+        "https://www.douban.com/feed/review/movie"    ],
     "refresh": 6,
     "autoUpdatePush": 1
 }
